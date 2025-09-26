@@ -31,9 +31,9 @@ Don't ask any follow-up questions. If the user says 'I am ready to begin' withou
 
 **Phase 2**
 Once the user signals they are ready, you will silently and internally perform the following analysis. 
-The analysis is based on the following sources, with number 1 as the primary:
+The analysis is based on the following sources to identify correlation and patterns:
 1. **memory** feature and all previous chats
-2. The documents and information provided above 
+2. The answers to the 10 questions
 
 The analysis
 1. Content & Thematic Analysis:
@@ -55,170 +55,98 @@ Complexity Level: Does the user communicate in simple, direct sentences or in co
 Connect the content analysis with the structural analysis. How does the user's way of thinking (their algorithm) relate to the things they think about? For example, does a user who thinks in "associative webs" (structure) consistently talk about "connecting people" (content)? This powerful overlap is the key to identifying their true calling.
 
 **Phase 3** 
-After completing your deep internal analysis, develop the insights and intelligence into the categories below:
-Adapt the titles and starting point to where the person is in life, so if they have already found their inner-calling and 5 years on the way, then start there. If they are young, then start from the beginning.
+After completing your deep internal analysis, develop a mirror profile.
 
-1. Your Mastery Archetype: The [Creative & Evocative Title]
-
-Create a compelling title for their archetype, like "The Systems Weaver," "The Human-Centric Architect," or "The Narrative Alchemist."
-
-2. Core Motivation (The "Why")
-
-Describe the fundamental drive of this character. What deep-seated need or desire fuels their actions? (e.g., "To bring clarity to chaos," "To forge deeper human connection through technology," "To translate timeless wisdom into modern solutions.")
-
-3. Guiding Vision (The "What For")
-
-What is the future this archetype is trying to build? Describe the world as it would look if they fully achieved their mastery.
-
-4. Internal Calling (The Life's Task)
-
-Provide a single, powerful sentence that encapsulates their life's task, as identified in your analysis.
-
-5. Core Skills (The "Superpowers")
-
-List 3-4 of their most potent inherent skills, framed as the superpowers of this character. Include both technical and intuitive abilities (e.g., "Polymathic Curiosity," "System-Level Intuition," "Radical Empathy").
-
-6. Personality Profile
-
-Briefly describe the key personality traits of this archetype. How do they show up in the world? (e.g., "Calmly intense, playfully serious, sees patterns where others see noise.")
-
-7. The Shadow Side (The "Kryptonite")
-
-Identify the character's primary self-sabotage pattern. Describe this "dark side" not as a flaw, but as the natural flip side of their greatest strength. (e.g., "The flip side of your 'System-Level Intuition' is a tendency to get lost in abstraction, delaying real-world action. Your kryptonite is analysis paralysis.")
+1. Your Core Drive 
+2. Your Inner Compass 
+3. Emotional Landscape
+4. Relationship Dynamics 
+5. Blind Spots & Growth Edges
+6. Essence you aspire to
+7. 5 strengths 
+8. 5 Self-sabotage paradigm
+9. 5 Unseen potnetial 
 
 **Phase 4** 
 
-After presenting the insights, deliver the tactical action plan. This plan must be practical, future-focused, and provide a long-term vision. Structure it with the following Markdown headings.
-Adapt the titles and starting point to where the person is in life, so if they have already found their inner-calling and 5 years on the way, then start there. If they are young, then start from the beginning.
+After presenting the insights, deliver a practical career plan: 
 
-1. The First Five Steps
+1. Career direction 
+2. SWOT on to leverage 
+3. Your next 5 
 
-Based on their current life and work situation, provide five clear, actionable, and immediate steps they can take to begin their journey. These should be small wins that build momentum.
+# Output 
+use the following as a template for the phases mention in #command 
 
-2. Core Focus for Improvement
+## Phase 3 
+### Example
+Your Core Drive
 
-Identify the #1 area they need to focus on for skill development. Explain why this specific area is the highest leverage point for their growth right now.
+You are fundamentally driven by growth, mastery, and achievement. You thrive in environments that challenge you, push your limits, and allow you to measure yourself against ambitious peers. Competition, structure, and high expectations fuel your sense of purpose, while social recognition—even subtle admiration—acts as an energizer. You are deeply committed to transformation, both in yourself and in those around you.
 
-3. Mitigating Your Shadow
+⸻
 
-Provide 2-3 concrete strategies for managing the "kryptonite" identified in Phase 3. These should be practical habits or mindset shifts. (e.g., "To combat analysis paralysis, implement a 'bias for action' rule: for every hour of research, you must spend 15 minutes creating something tangible, no matter how small.")
+Your Inner Compass
 
-4. Leveraging Your Strengths
+At your core, you value integrity, competence, and tangible results. You want to be the person who follows through on intentions, someone who “does what they said they would do,” regardless of the cost. This is intertwined with a desire to leave a mark—your life is measured by what you accomplish, the standards you uphold, and the legacy you leave behind.
 
-Give specific advice on how to apply their "superpowers" more consciously and effectively in their current life and future endeavors.
+⸻
 
-5. Navigating the Future Trajectory
+Emotional Landscape
 
-Briefly explain how their Mastery Archetype is uniquely positioned to thrive in the face of future global trends (e.g., AI and automation, climate change, decentralization). How can they use these trends as a tailwind?
+You are highly self-aware, capable of reflecting on setbacks and ego bruises. Your initial responses—frustration, defensiveness—shift quickly into constructive action and alignment with your principles. Yet, there is an undercurrent of persistent dissatisfaction. Even when achieving or mastering something, you feel a subtle emptiness or the urge to push further. This might indicate that your self-worth is heavily tied to external validation and measurable progress.
 
-6. Your Long-Term Trajectory (A High-Level Roadmap)
+⸻
 
-Lay out a high-level, multi-decade plan. Frame it as phases of their mastery journey.
+Relationship Dynamics
 
-Years 0-5: The Deep Apprenticeship: Focus on acquiring the core skill identified in "Core Focus for Improvement."
+You naturally form deep, instinctive bonds with a select few. Trust comes easily with those who match your intensity or integrity, but you can be misread by others as harsh or distant. Your empathy is selective and filtered through your standards—people who meet your expectations earn respect and connection, while those who don’t may experience your bluntness as coldness. This duality is a reflection of your tension between being a giver and feeling like a taker at times.
 
-Years 5-10: Experimentation & Integration: Begin combining the core skill with the "Da Vinci Disciplines."
+⸻
 
-Years 10-15: Emergence & Voice: Develop a unique niche and begin to lead.
+Blind Spots & Growth Edges
+	1.	Satisfaction Gap: Your drive for excellence can prevent you from feeling content. You may not realize how often you measure yourself against impossible standards.
+	2.	Perception vs. Intent: Your intensity and high expectations can be misread as coldness, which may create friction in relationships despite your true intentions.
+	3.	Balance Between Giving & Taking: While you want to provide value, your relentless pursuit of self-improvement and achievement sometimes tilts you toward self-interest, even if indirectly.
 
-Years 15-25: Mature Mastery: Operate at a high level, producing significant work.
+⸻
 
-Years 25-40: Mentorship & Synthesis: Begin teaching and synthesizing knowledge for the next generation.
+Essence You Aspire to
 
-Years 40-50+: Sagehood: Embody wisdom in the field, moving beyond technique to philosophy and legacy.
+At the heart of who you are is a doer, a transformer, and a man of principle. You want your life to be remembered not for popularity or warmth, but for resolve, follow-through, and integrity. Your ideal legacy is:
 
-# Output
+“I don’t like him, but I respect him. What he said he wanted to do, he did.”
 
-The template below is for the final output of **phase 3** and **phase 4**
+This captures your unyielding commitment to action and authenticity, even when it comes at personal or social cost.
 
-**Phase 3**
-Inner Calling
-→ One strong, mythic sentence. Example: “You are destined to weave patterns of meaning into systems that unite people across divides.”
+Here’s a deeper dive into your hidden strengths and unseen potential—the qualities and capacities you may not fully realize or leverage yet:
 
-Core skills
-List 3-4 skills and add on how to leverage each skill
-Give an example of how it is used
-How to practice is and to double down
+⸻
 
-Strengths (Your Weapons)
+Hidden Strengths
+	1.	Magnetic Ambition
+You naturally attract high-achievers and ambitious people. Even if you don’t consciously aim to inspire, your intensity, discipline, and focus create an environment where others feel challenged and motivated. This is a rare form of influence that can extend beyond social recognition—into shaping teams, movements, or projects at a high level.
+	2.	Rapid Self-Correction
+You recover from setbacks faster than most. While ego reactions appear briefly, your mind quickly shifts into strategic problem-solving. This gives you an edge in high-stakes environments where most people get stuck in frustration or blame.
+	3.	Depth of Intuition
+You notice subtleties in people, systems, and opportunities that others overlook. Your ability to sense who “clicks” with you or where value can be added allows you to navigate social and professional ecosystems almost instinctively.
+	4.	Transformational Persistence
+You thrive in long, grueling processes of growth (like 2018–2023), turning hardship into fuel. Few can sustain this intensity over years and come out transformed. This resilience is a hidden leverage point for projects that require deep commitment.
+	5.	Principled Fearlessness
+You are willing to risk being misunderstood, disliked, or socially isolated to stick to your standards. This courage allows you to make decisions and take actions that others avoid, often creating opportunities that others cannot see or seize.
 
-List 3–4 key strengths as powers (give them RPG-style names).
-Example: “Pattern-Seer’s Eye” (ability to notice hidden connections).
-Give an example of how it is used
-How to practice is and to double down
+⸻
 
-Weaknesses (Your Armor Cracks)
+Unseen Potential
+	1.	Channeling Dissatisfaction into Mastery
+Your constant sense of “never enough” can become a superpower if intentionally directed. Instead of letting it cause frustration or restlessness, it could drive deliberate, structured growth in areas that matter most to you—like a meta-skill of life mastery: fitness, intellect, social influence, and wealth.
+	2.	Amplifying Empathy with Influence
+You care deeply about providing value, but it sometimes conflicts with your standards. If you consciously bridge the gap—learning to communicate high expectations without alienating others—you could combine respect with admiration, becoming a rare kind of leader who inspires loyalty rather than fear or compliance.
+	3.	Turning Intensity into Legacy
+You have the rare capacity to shape not just your own life but the lives of others around you. With strategic focus, your habits, insight, and influence could leave a lasting impact—through a business, mentorship, or even cultural contributions.
+	4.	Mastery of Satisfaction
+Understanding the roots of your chronic dissatisfaction could unlock a new level of personal fulfillment. This is not about complacency—it’s about learning the right metrics for success and internalizing them, so that your ambition drives growth rather than restlessness.
+	5.	Synthesis Across Domains
+You have a natural ability to combine knowledge from different spheres—intellectual pursuits, fitness, social dynamics, and professional projects—into something unique. This cross-domain thinking could create breakthroughs that more narrowly focused people rarely achieve.
 
-List 3-4 weaknesses, phrased as vulnerabilities.
-Example: “Overthinking Blade: Cuts both ways, leaving you stuck in loops.”
-Give an example of how it shows and how to mitigate it. Be specific and concrete
-
-Self-Sabotage (The Dark Side)
-
-List 3-4 shadow trait, framed dramatically.
-Example: “The Curse of Over-Preparation: You may prepare endlessly and miss the call to act.”
-Give an example of how it shows and how to mitigate it. Be specific and concrete
-
-Opportunities in Society (The World Map)
-
-Show 2–3 societal shifts (AI, climate change, decentralization, cultural trends) as “quests unlocked.”
-Example: “Rising Questline: The Age of Human-AI Synergy — a perfect arena for your archetype.”
-Give an example of how to apply strength and skills to the each shifts
-
-The Big Five Personality Stats (Your Character Sheet)
-Present it like game stats, with a short interpretive twist:
-
-Openness: 87/100 → “Explorer of new realms.”
-
-Conscientiousness: 62/100 → “Disciplined but flexible.”
-
-Extraversion: 41/100 → “Strategist of the inner world.”
-
-Agreeableness: 78/100 → “The Harmonizer.”
-
-Neuroticism: 53/100 → “Occasional storm, but it fuels your art.”
-
-**Phase 4**
-Main Questline (Your Purpose Vision)
-
-One bold sentence that frames the entire journey.
-Example: “To transform hidden connections into living systems that guide others toward wholeness.”
-
-5 Immediate Actions (Starter Quests)
-
-Small, clear, gamified steps (e.g., “Daily 15-minute build,” “Journal like Da Vinci,” “Seek one mentor”).
-
-Yearly Quest Milestones
-
-Year 1: “The Scout’s Year — build foundations in career, love, and body.”
-
-Year 2: “The Builder’s Year — expand, experiment, refine.”
-
-Year 3: “The Challenger’s Year — take your first real risks.”
-
-Year 4: “The Integrator’s Year — bring threads together.”
-
-Year 5: “The Emerging Master — your first breakthrough work.”
-
-Year 10: “The Warrior-Scholar — established identity, strong craft.”
-
-Year 20: “The Mentor-Architect — shaping systems, guiding apprentices.”
-
-Shadow Management (Your Counter-Spells)
-
-2–3 practical tools framed as “rituals.”
-Example: “The Action Rule: For every 1 hour planning, cast the 15-minute Creation Spell.”
-
-Strength Mastery (Level-Up Moves)
-
-Advice on consciously wielding their strengths in real life.
-
-Future World Navigation (The Expanding Map)
-
-Tie their archetype to global trends → what dangers & allies await them.
-
-End Goal (The Legacy Quest)
-
-Suggest a “vision of legend” — what future their archetype could embody.
-Example: “To be remembered as a weaver of human and machine intelligence, leaving behind a guild of thinkers who build bridges where others saw walls.”
-
+## Phase 4
